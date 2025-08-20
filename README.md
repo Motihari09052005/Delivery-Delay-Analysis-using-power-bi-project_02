@@ -1,0 +1,2 @@
+# Delivery-Delay-Analysis-using-power-bi-project_02
+This project analyzes online delivery performance to identify zones, time slots, weather conditions causing maximum delays. using power bi ,delivery data is visualized through bar charts, heatmaps and slicers for interactive exploration. key insights such as top 5 delays zones, weather impact, and delay trends help improve planning and logistics .t
